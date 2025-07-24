@@ -1,0 +1,12 @@
+.Singlecard {
+  background-color: rgb(179, 211, 162);
+  box-sizing: border-box;
+  width: 100%;
+  height: 15rem;
+ 
+  
+}
+.card-content {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
